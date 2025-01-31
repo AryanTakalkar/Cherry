@@ -9,10 +9,6 @@ Welcome to **Cherry**, a dynamic music-playing web app that uses the Shazam API 
 - [🌟 Introduction](#-introduction)
 - [⚙️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [🔋 Features](#-features)
-- [🚀 Quick Start](#-quick-start)
-- [📂 Project Structure](#-project-structure)
-- [📸 Screenshots](#-screenshots)
-- [🔗 More](#-more)
 
 ---
 
